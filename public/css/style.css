@@ -1,8 +1,10 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
+img.media-object {
+  max-height: 35vh; }
 
-a {
-  color: #00B7FF;
-}
+p.lead {
+  font-size: 2em; }
+
+.media {
+  width: 150vh; }
+
+/*# sourceMappingURL=style.css.map */

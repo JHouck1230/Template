@@ -8,7 +8,7 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
 
-var database =
+var database = 
 
 const mongoUrl = process.env.MONGODB_URI || `mongodb://localhost/${database}`;
 
